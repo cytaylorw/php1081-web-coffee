@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>東山咖啡</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+    <!-- 網站meta  -->
+    <meta name="keywords" content="東山咖啡,咖啡,東山">
+    <meta name="description" content="東山咖啡景點介紹">
+    <meta name="author" content="泰山網頁設計班">
+    <!-- facebook meta -->
+    <meta property="og:title" content="東山咖啡 | 商品介紹">
+    <meta property="og:image" content="./img/Geography_03.jpg">
+    <meta property="og:description" content="東山咖啡介紹網">
+    <meta property="og:site_name" content="東山咖啡">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/dataTables.bootstrap4.min.css">
+    <!-- 先jquery -->
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/wow.min.js"></script>
+    <script src="./js/jquery.validate.js"></script>
+    <script src="./js/sweetalert2.all.min.js"></script>
+    <!-- PWD -->
+    <link rel="manifest" href="manifest.json">
+</head>
+
+<body>
+    <div id="bg"></div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-nav fixed-top shadow flipInX wow" id="nav">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img src="./img/coffee192.png" width="30" height="30" class="d-inline-block align-top" alt="東山咖啡">
+                東山咖啡
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="./index.html">
+                            <i class="fas fa-home"></i> 首頁
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./land.html">
+                            <i class="fas fa-tree"></i> 景點介紹
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./shop.html">
+                            <i class="fas fa-gift"></i> 商品介紹
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-nav" id="content">
+        <div class="col-12 text-center text-white tada wow my-4">
+            <h1>商品介紹</h1>
+        </div>
+        <hr class="hr-white">
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-3 my-2 lightSpeedIn wow" data-wow-duration="1.5s">
+                <div class="card">
+                    <img class="card-img-top obj-fit" src="./img/Coffee-goods_11.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">木村元東山咖啡</h5>
+                        <p class="card-text">純天然台灣咖啡。純天然台灣咖啡。純天然台灣咖啡。純天然台灣咖啡。純天然台灣咖啡。純天然台灣咖啡。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3 my-2 lightSpeedIn wow" data-wow-duration="1.5s" data-wow-delay="0.5s">
+                <div class="card">
+                    <img class="card-img-top obj-fit" src="./img/Coffee-goods_14.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">木村元東山咖啡</h5>
+                        <p class="card-text">純天然台灣咖啡</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3 my-2 lightSpeedIn wow" data-wow-duration="1.5s" data-wow-delay="1s">
+                <div class="card">
+                    <img class="card-img-top obj-fit" src="./img/Coffee-goods_17.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">木村元東山咖啡</h5>
+                        <p class="card-text">純天然台灣咖啡</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3 my-2 lightSpeedIn wow" data-wow-duration="1.5s" data-wow-delay="1.5s">
+                <div class="card">
+                    <img class="card-img-top obj-fit" src="./img/Coffee-goods_18.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">木村元東山咖啡</h5>
+                        <p class="card-text">純天然台灣咖啡</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 text-center text-white tada wow my-4">
+                <h1>商品訂購</h1>
+        </div>
+        <hr class="hr-white">
+        <div class="col-12 text-white">
+                <form id="orderForm" autocomplete="off">
+                        <div class="form-group">
+                          <label for="orderEmail">電子信箱</label>
+                          <input type="email" name="email" class="form-control" id="orderEmail1" placeholder="請輸入您的電子信箱" required>
+                        </div>
+                        <div class="form-group">
+                          <label for="orderAddr">地址</label>
+                          <input type="text" name="addr" class="form-control" id="orderAddr" placeholder="請輸入您的地址" required>
+                        </div>
+                        <div class="form-group">
+                          <label for="orderName">姓名</label>
+                          <input type="text" name="name" class="form-control" id="orderName" placeholder="請輸入您的姓名" required>
+                        </div>
+                        <div class="form-check">
+                          <input type="checkbox" name="accept" class="form-check-input" id="orderOK" required>
+                          <label class="form-check-label" for="orderOK">我同意運送規定</label>
+                        </div>
+                        <p class="text-center">
+                            <button type="submit" class="btn btn-danger">點我訂購</button>
+                        </p>
+                      </form>
+        </div>
+    </div>
+    <div class="container-fluid bg-footer mt-4" id="footer">
+        <div class="row">
+            <div class="col-12 text-center text-white">
+                <ul class="nav justify-content-center">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="#"><i class="fab fa-facebook fs150"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="#"><i class="fab fa-line fs150"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="#"><i class="fab fa-instagram fs150"></i></a>
+                    </li>
+                </ul>
+                &copy;<script>
+                    let d = new Date();
+                    document.write(d.getFullYear());
+                </script>泰山網頁設計班 Taylor
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid" id="loading">
+        <div class="row h-100">
+            <div class="col-12 text-center align-self-center"><img src="./img/cat.svg" alt="" height="300" width="300">
+                <p class="text-white">載入中</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    $(document).on("readystatechange", function () {
+        console.log(document.readyState);
+        if (document.readyState == "complete") {
+            $("#loading").fadeOut(2000, function () {
+                $("#nav").fadeIn();
+                $("#content").fadeIn();
+                $("#footer").fadeIn();
+                new WOW().init();
+            })
+        }
+    })
+    $("#orderForm").validate({
+        rules: {
+            email: {
+                required: true,
+                email: true
+            },
+            addr: {
+                required: true,
+                minlength: 5
+            },
+            name: {
+                required: true,
+                remote: function(element){
+                    return {
+                        url: "check.php",
+                        type: "POST",
+                        data: {
+                            name: $(element).val()
+                        }
+                    }
+                }
+            },
+            accept: {
+                required: true,
+            }
+        },
+        messages: {
+            email: {
+                required: "這是必填欄位",
+                email: "請輸入有效的電子信箱"
+            },
+            addr: {
+                required: "這是必填欄位",
+                minlength: "請至少輸入五個字"
+            },
+            name: {
+                required: "這是必填欄位",
+                remote: "無效的名子"
+                
+            },
+            accept: {
+                required: "請同意規定",
+            }
+        },
+        highlight: function(element){
+            $(element).removeClass("is-valid").addClass("is-invalid");
+        },
+        success: function(element){
+            $("#"+$(element).attr("for")).removeClass("is-invalid").addClass("is-valid").tooltip("dispose");
+        },
+        errorPlacement: function(error, element){
+            $(element).tooltip("dispose").tooltip({
+                title: error.text(),
+                placement: "bottom",
+                trigger: "hover focus",
+                template: '<div class="tooltip error" role="tooltip"><div class="arrow"></div><div class="tooltip-inner text-danger bg-white"></div></div>'
+            }).tooltip("show");
+
+        },
+        submitHandler: function(form){
+            Swal.fire({
+                type: "question",
+                title: "您確定嗎？",
+                text: "請確認是否下單",
+                showCancelButton: true,
+                buttonsStyling: false,
+                customClass:{
+                    confirmButton: "btn btn-success mx-1",
+                    cancelButton: "btn btn-danger mx-1"
+                },
+                confirmButtonText: `<i class="fas fa-thumbs-up"></i > 確認`,
+                cancelButtonText: `<i class="fas fa-times"></i> 取消`
+            }).then(result=>{
+                if(result.value){
+                    let fd = new FormData(form);
+                    $.ajax({
+                        url: "form.php",
+                        type: "POST",
+                        data: fd,
+                        processData: false,
+                        contentType: false,
+                        cache: false,
+                        success: function(r){
+                            Swal.fire({
+                                type: "success",
+                                title: "成功",
+                                text: "成功下定",
+                                // html: "<h1>成功下定<h1>"
+                                buttonsStyling: false,
+                                customClass:{
+                                    confirmButton: "btn btn-success"
+                                },
+                                confirmButtonText: `<i class="fas fa-thumbs-up"></i> 確認`
+                            })
+                        }
+                    })
+                }else{
+                    Swal.fire({
+                                type: "error",
+                                title: "取消",
+                                text: "取消下定",
+                                buttonsStyling: false,
+                                customClass:{
+                                    confirmButton: "btn btn-success"
+                                },
+                                confirmButtonText: `<i class="far fa-sad-cry"></i> 確認`
+                            })
+                        }
+                }
+            )
+        }
+    });
+</script>
+
+</html>

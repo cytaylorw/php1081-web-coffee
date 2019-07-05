@@ -1,0 +1,101 @@
+<svg class="lds-equalizer" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><g transform="rotate(180 50 50)"><rect y="-2.5" height="72.2039" fill="#813d25" x="0.9607843137254901" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.92s" dur="2">
+</animate></rect><rect y="-2.5" height="73.8647" fill="#ab6841" x="2.9215686274509802" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.96s" dur="2">
+</animate></rect><rect y="-2.5" height="88.307" fill="#cf9866" x="4.882352941176471" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.32s" dur="2">
+</animate></rect><rect y="-2.5" height="34.1029" fill="#e9c495" x="6.8431372549019605" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.64s" dur="2">
+</animate></rect><rect y="-2.5" height="17.5937" fill="#526243" x="8.803921568627452" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.28s" dur="2">
+</animate></rect><rect y="-2.5" height="111.158" fill="#2d3b2a" x="10.764705882352942" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.6s" dur="2">
+</animate></rect><rect y="-2.5" height="112.44" fill="#6c9668" x="12.72549019607843" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.68s" dur="2">
+</animate></rect><rect y="-2.5" height="54.9638" fill="#9bba9a" x="14.686274509803921" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.76s" dur="2">
+</animate></rect><rect y="-2.5" height="81.1965" fill="#297658" x="16.647058823529413" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.24s" dur="2">
+</animate></rect><rect y="-2.5" height="109.416" fill="#cce5ea" x="18.607843137254903" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.8s" dur="2">
+</animate></rect><rect y="-2.5" height="61.0176" fill="#42b0d3" x="20.568627450980394" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.8s" dur="2">
+</animate></rect><rect y="-2.5" height="77.0063" fill="#813d25" x="22.529411764705884" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.16s" dur="2">
+</animate></rect><rect y="-2.5" height="74.7557" fill="#ab6841" x="24.49019607843137" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="0s" dur="2">
+</animate></rect><rect y="-2.5" height="19.9504" fill="#cf9866" x="26.45098039215686" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.52s" dur="2">
+</animate></rect><rect y="-2.5" height="25.5436" fill="#e9c495" x="28.41176470588235" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.2s" dur="2">
+</animate></rect><rect y="-2.5" height="15.963" fill="#526243" x="30.372549019607842" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.44s" dur="2">
+</animate></rect><rect y="-2.5" height="62.9191" fill="#2d3b2a" x="32.333333333333336" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.04s" dur="2">
+</animate></rect><rect y="-2.5" height="32.1893" fill="#6c9668" x="34.294117647058826" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.16s" dur="2">
+</animate></rect><rect y="-2.5" height="23.4752" fill="#9bba9a" x="36.254901960784316" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.56s" dur="2">
+</animate></rect><rect y="-2.5" height="69.6125" fill="#297658" x="38.21568627450981" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.88s" dur="2">
+</animate></rect><rect y="-2.5" height="104.867" fill="#cce5ea" x="40.1764705882353" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.48s" dur="2">
+</animate></rect><rect y="-2.5" height="92.6771" fill="#42b0d3" x="42.13725490196079" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.36s" dur="2">
+</animate></rect><rect y="-2.5" height="109.744" fill="#813d25" x="44.09803921568628" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.56s" dur="2">
+</animate></rect><rect y="-2.5" height="15.0269" fill="#ab6841" x="46.05882352941177" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.36s" dur="2">
+</animate></rect><rect y="-2.5" height="75.8665" fill="#cf9866" x="48.01960784313726" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.12s" dur="2">
+</animate></rect><rect y="-2.5" height="97.1452" fill="#e9c495" x="49.98039215686274" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.4s" dur="2">
+</animate></rect><rect y="-2.5" height="101.31" fill="#526243" x="51.94117647058823" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.44s" dur="2">
+</animate></rect><rect y="-2.5" height="40.8085" fill="#2d3b2a" x="53.90196078431372" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.12s" dur="2">
+</animate></rect><rect y="-2.5" height="17.5038" fill="#6c9668" x="55.86274509803921" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.48s" dur="2">
+</animate></rect><rect y="-2.5" height="112.025" fill="#9bba9a" x="57.8235294117647" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.64s" dur="2">
+</animate></rect><rect y="-2.5" height="75.2251" fill="#297658" x="59.78431372549019" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.08s" dur="2">
+</animate></rect><rect y="-2.5" height="74.2075" fill="#cce5ea" x="61.745098039215684" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1s" dur="2">
+</animate></rect><rect y="-2.5" height="40.9029" fill="#42b0d3" x="63.705882352941174" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.68s" dur="2">
+</animate></rect><rect y="-2.5" height="65.9201" fill="#813d25" x="65.66666666666667" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.84s" dur="2">
+</animate></rect><rect y="-2.5" height="15.7543" fill="#ab6841" x="67.62745098039215" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.32s" dur="2">
+</animate></rect><rect y="-2.5" height="100.847" fill="#cf9866" x="69.58823529411765" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.88s" dur="2">
+</animate></rect><rect y="-2.5" height="84.8479" fill="#e9c495" x="71.54901960784314" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.96s" dur="2">
+</animate></rect><rect y="-2.5" height="15.1718" fill="#526243" x="73.50980392156863" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.4s" dur="2">
+</animate></rect><rect y="-2.5" height="84.4039" fill="#2d3b2a" x="75.47058823529412" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.28s" dur="2">
+</animate></rect><rect y="-2.5" height="93.8285" fill="#6c9668" x="77.43137254901961" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.92s" dur="2">
+</animate></rect><rect y="-2.5" height="105.962" fill="#9bba9a" x="79.3921568627451" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.84s" dur="2">
+</animate></rect><rect y="-2.5" height="107.676" fill="#297658" x="81.3529411764706" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.52s" dur="2">
+</animate></rect><rect y="-2.5" height="20.7651" fill="#cce5ea" x="83.31372549019608" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.24s" dur="2">
+</animate></rect><rect y="-2.5" height="112.413" fill="#42b0d3" x="85.27450980392157" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.72s" dur="2">
+</animate></rect><rect y="-2.5" height="111.488" fill="#813d25" x="87.23529411764706" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.76s" dur="2">
+</animate></rect><rect y="-2.5" height="28.2019" fill="#ab6841" x="89.19607843137256" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.6s" dur="2">
+</animate></rect><rect y="-2.5" height="48.073" fill="#cf9866" x="91.15686274509804" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.72s" dur="2">
+</animate></rect><rect y="-2.5" height="78.7485" fill="#e9c495" x="93.11764705882354" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.2s" dur="2">
+</animate></rect><rect y="-2.5" height="51.1783" fill="#526243" x="95.07843137254902" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-1.08s" dur="2">
+</animate></rect><rect y="-2.5" height="75.0016" fill="#2d3b2a" x="97.03921568627452" width="2">
+  <animate attributeName="height" calcMode="spline" values="75;112.5;15;75" times="0;0.33;0.66;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite" begin="-0.04s" dur="2">
+</animate></rect></g></svg>
