@@ -175,6 +175,7 @@
             })
         }
     })
+    let url = (true)?"https://api.cytaylorw.idv.tw/github/coffee/":"";
     $("#orderForm").validate({
         rules: {
             email: {
@@ -189,7 +190,7 @@
                 required: true,
                 remote: function(element){
                     return {
-                        url: "check.php",
+                        url: url+"check.php",
                         type: "POST",
                         data: {
                             name: $(element).val()
@@ -251,7 +252,7 @@
                 if(result.value){
                     let fd = new FormData(form);
                     $.ajax({
-                        url: "form.php",
+                        url: url+"form.php",
                         type: "POST",
                         data: fd,
                         processData: false,
