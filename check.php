@@ -1,4 +1,5 @@
 <?php
+    header('Access-Control-Allow-Origin:  https://cytaylorw.github.io');
     $valid = false;
     if($_POST["name"]=="123"){
         $valid=true;
